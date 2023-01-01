@@ -80,10 +80,10 @@ export default {
   async mounted() {
     this.setHighLightDate()
 
-    const res = await fetch('/songList.json')
+    const res = await fetch('/practiceLink/songList.json')
     this.practiceList = await res.json()
 
-    const res2 = await fetch('/송영.json')
+    const res2 = await fetch('/practiceLink/송영.json')
     this.송영 = await res2.json()
   },
   methods: {

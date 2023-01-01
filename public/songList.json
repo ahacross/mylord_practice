@@ -40,47 +40,5 @@
         "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data19_mp.html"
       }
     ]
-  },
-  {
-    "label": "1월 성가곡 연습",
-    "list": [
-      {
-        "date": "2023.01.01",
-        "title": "주님께 감사",
-        "description": "중앙성가 19 (p.74)",
-        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data10_mp.html"
-      },
-      {
-        "date": "2023.01.08",
-        "title": "오직 주만 따르오리",
-        "description": "중앙성가 19 (p.95)",
-        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data12_mp.html"
-      },
-      {
-        "date": "2023.01.15",
-        "title": "심령이 가난한 자는",
-        "description": "중앙성가 19 (p.142)",
-        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data17_mp.html"
-      },
-      {
-        "date": "2023.01.22",
-        "title": "내 진정 사모하는",
-        "description": "새찬송가 (88장)",
-        "type": "youtube",
-        "url": [
-          "https://m.youtube.com/watch?v=LwSFBLbnfhI",
-          "https://m.youtube.com/watch?v=zYVFKnEPdUs",
-          "https://m.youtube.com/watch?v=5t-1CNsnI0Q",
-          "https://m.youtube.com/watch?v=lGrAt6hlTUQ",
-          "https://m.youtube.com/watch?v=BT-skgAJX_o"
-        ]
-      },
-      {
-        "date": "2023.01.29",
-        "title": "십자가를 질 수 있나",
-        "description": "중앙성가 19 (p.156)",
-        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data19_mp.html"
-      }
-    ]
   }
 ]
