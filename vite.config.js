@@ -15,6 +15,11 @@ export default defineConfig({
       sassVariables: 'src/quasar-variables.sass'
     })
   ],
+  filenameHashing: true,
+  configureWebpack: config => {
+    config.output.filename = 'js/[name].[hash].js'
+    config.output.chunkFilename = 'js/[name].[hash].js'
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

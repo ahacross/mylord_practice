@@ -40,5 +40,34 @@
         "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data19_mp.html"
       }
     ]
+  },
+  {
+    "label": "2월 성가곡 연습",
+    "list": [
+      {
+        "date": "2023.02.05",
+        "title": "주 음성 외에는",
+        "description": "중앙성가 19 (p.4)",
+        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data1_mp.html"
+      },
+      {
+        "date": "2023.02.12",
+        "title": "온 세상이 캄캄하여서",
+        "description": "중앙성가 19 (p.183)",
+        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data22_mp.html"
+      },
+      {
+        "date": "2023.02.19",
+        "title": "나 주 따르리",
+        "description": "중앙성가 19 (p.201)",
+        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data24_mp.html"
+      },
+      {
+        "date": "2023.02.26",
+        "title": "그 길",
+        "description": "예수나의기쁨 20",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data3_mp.html"
+      }
+    ]
   }
 ]
