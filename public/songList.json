@@ -65,8 +65,39 @@
       {
         "date": "2023.02.26",
         "title": "그 길",
-        "description": "예수나의기쁨 20",
+        "description": "예수나의기쁨 20 (p.26)",
         "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data3_mp.html"
+      }
+    ]
+  },
+  {
+    "label": "3월 성가곡 연습",
+    "list": [
+      {
+        "date": "2023.03.05",
+        "title": "기억하라",
+        "description": "별도 악보",
+        "type": "youtube",
+        "down": "https://ahacross.me/down/mylord/files/230305_%EA%B8%B0%EC%96%B5%ED%95%98%EB%9D%BC.pdf",
+        "url": [
+          "https://youtu.be/BaqBxuHWIYE",
+          "https://youtu.be/1AiTRYds8CA",
+          "https://youtu.be/tSjk6Y1z2w4",
+          "https://youtu.be/_5OQgMBhPEI",
+          "https://youtu.be/bIbSA-qxRSw"
+        ]
+      },
+      {
+        "date": "2023.03.12",
+        "title": "갈보리 산 위에",
+        "description": "예수나의기쁨 20 (p.187)",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data20_mp.html"
+      },
+      {
+        "date": "2023.03.26",
+        "title": "예수 나를 위하여",
+        "description": "예수나의기쁨 20 (p.17)",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data2_mp.html"
       }
     ]
   }

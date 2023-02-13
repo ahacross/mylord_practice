@@ -10,8 +10,10 @@
           <template v-for="(item, monthIdx) in list" :key="monthIdx">
             <div :class="{ highLight: highlightsDate === item.date }">
               <span style="margin-right: 5px">
-                {{ item.date.split('.')[2] + '일' }} - {{ item.title }}
+                {{ item.date.split('.')[2] + '일' }} -
+                <strong>{{ item.title }}</strong>
                 {{ item.description }}
+                <a v-if="item.down" :href="item.down">악보다운</a>
               </span>
               <br />
               <a
