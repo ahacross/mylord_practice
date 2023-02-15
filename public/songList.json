@@ -77,8 +77,8 @@
         "date": "2023.03.05",
         "title": "기억하라",
         "description": "별도 악보",
-        "type": "youtube",
         "down": "https://ahacross.me/down/mylord/files/230305_%EA%B8%B0%EC%96%B5%ED%95%98%EB%9D%BC.pdf",
+        "type": "youtube",
         "url": [
           "https://youtu.be/BaqBxuHWIYE",
           "https://youtu.be/1AiTRYds8CA",
@@ -92,6 +92,19 @@
         "title": "갈보리 산 위에",
         "description": "예수나의기쁨 20 (p.187)",
         "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data20_mp.html"
+      },
+      {
+        "date": "2023.03.19",
+        "title": "만왕의 왕 내 주께서",
+        "description": "찬송가 151장",
+        "type": "youtube",
+        "url": [
+          "https://youtu.be/X9mKDldOJuU",
+          "https://youtu.be/1pDiF1EWuDw",
+          "https://youtu.be/sw4BEeBkdyE",
+          "https://youtu.be/FUo8xhgUY4Q",
+          "https://youtu.be/ZbW5OlsJRT8"
+        ]
       },
       {
         "date": "2023.03.26",
