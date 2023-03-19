@@ -113,5 +113,40 @@
         "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data2_mp.html"
       }
     ]
+  },
+  {
+    "label": "4월 성가곡 연습",
+    "list": [
+      {
+        "date": "2023.04.02",
+        "title": "그 상하신 머리",
+        "description": "중앙성가 19 (p. 192)",
+        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data23_mp.html"
+      },
+      {
+        "date": "2023.04.09",
+        "title": "주 찬양",
+        "description": "중앙성가 19 (p. 27)",
+        "url": "http://ad2007.iptime.org/Web/jaart/cor/19/1-1/u18_data4_mp.html"
+      },
+      {
+        "date": "2023.04.16",
+        "title": "성령의 단비",
+        "description": "예수나의기쁨 20 (p.79)",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data9_mp.html"
+      },
+      {
+        "date": "2023.04.23",
+        "title": "주를 보라",
+        "description": "예수나의기쁨 20 (p.7)",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data1_mp.html"
+      },
+      {
+        "date": "2023.04.30",
+        "title": "손뼉치며 찬양해",
+        "description": "예수나의기쁨 20 (p.36)",
+        "url": "http://ad2007.iptime.org/Web/chorus%20center/20/1-1/u18_data4_mp.html"
+      }
+    ]
   }
 ]

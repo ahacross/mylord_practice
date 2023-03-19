@@ -58,6 +58,21 @@
         </q-card-section>
       </q-card>
     </q-expansion-item>
+    <q-expansion-item group="practiceGroup" label="할렐루야">
+      <q-card>
+        <q-card-section>
+          <span>
+            <a
+              v-for="(part, partIdx) in partList"
+              :key="partIdx"
+              :href="할렐루야[partIdx]"
+              target="_blank">
+              {{ part.text }}
+            </a>
+          </span>
+        </q-card-section>
+      </q-card>
+    </q-expansion-item>
   </div>
 </template>
 
@@ -76,7 +91,8 @@ export default {
       ],
       practiceList: [],
       송영: [],
-      highlightsDate: ''
+      highlightsDate: '',
+      할렐루야: []
     }
   },
   async mounted() {
@@ -89,6 +105,13 @@ export default {
 
     const res2 = await fetch('/practiceLink/송영.json')
     this.송영 = await res2.json()
+    this.할렐루야 = [
+      'https://youtu.be/m-fS6VFaq10',
+      'https://youtu.be/LR3mtuaEPh8',
+      'https://youtu.be/gZdkV3BvNdg',
+      'https://youtu.be/wnqvNTFnvz4',
+      'https://youtu.be/jpeSNkIRo40'
+    ]
   },
   methods: {
     setHighLightDate() {
